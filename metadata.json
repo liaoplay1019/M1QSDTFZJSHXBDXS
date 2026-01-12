@@ -1,0 +1,7 @@
+{
+  "name": "明_曲水地团凤织金双鹤胸背大袖衫",
+  "description": "A 3D holographic textile artifact viewer with hand-tracking interaction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
